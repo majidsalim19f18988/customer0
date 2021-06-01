@@ -10,3 +10,11 @@
 10)	Else 
 Display ‘’ there is no discount’’
 11)	End if 
+12)	Switch (amount paid)
+13)	Case vip ;
+display ‘’ you have 20 chances to enter the draw’’
+14)	Case High:
+Display ‘’ you have 10 chances to enter the draw’’
+15)	Case Low:
+Display ‘’ you have 5 chances to enter the draw’’
+16)	End Switch 
