@@ -8,5 +8,5 @@
 8)	If loyalty >3 then 
 9)	Print ‘’discount is 3%’’
 10)	Else 
-Display ‘’ there is no discount’’
+Display ‘’ there is no discount because of your low loyalty points’’
 11)	End if 
