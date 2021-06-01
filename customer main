@@ -1,0 +1,12 @@
+1)	Int i, customer id , loyalty ;
+2)	String c[10] , nationality 
+3)	Float amount paid 
+4)	Read customer id, loyalty,amount paid, nationality 
+5)	For [i=10, i<10;i++]
+6)	Read c[10]
+7)	End For
+8)	If loyalty >3 then 
+9)	Print ‘’discount is 3%’’
+10)	Else 
+Display ‘’ there is no discount’’
+11)	End if 
