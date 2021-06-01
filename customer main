@@ -10,3 +10,5 @@
 10)	Else 
 Display ‘’ there is no discount’’
 11)	End if 
+17)	If nationality = Omani then
+18)	Display ‘’ You have a free delivery service’’ 
